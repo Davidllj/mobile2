@@ -1,0 +1,29 @@
+{
+  "name": "mobile2",
+  "version": "0.0.2",
+  "description": "three",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidllj/mobile2.git"
+  },
+  "keywords": [
+    "three"
+  ],
+  "author": "Myself",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Davidllj/mobile2/issues"
+  },
+  "homepage": "https://github.com/Davidllj/mobile2#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-stylus": "^2.5.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
